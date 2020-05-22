@@ -1,9 +1,0 @@
-{
-    "python.linting.enabled": true,
-    "code-runner.showExecutionMessage": false,
-    "code-runner.clearPreviousOutput": true,
-    "python.pythonPath": "venv\\Scripts\\python.exe",
-    "python.linting.pylintEnabled": false,
-    "python.linting.pycodestyleEnabled": false,
-    "python.linting.flake8Enabled": true
-}
